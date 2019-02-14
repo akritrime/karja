@@ -1,0 +1,10 @@
+[package]
+name = "mc_pi"
+version = "0.1.0"
+authors = ["akritrime <akritrime@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand  = "*"
+karja = { path = "../.." }
+# rayon = "*"
